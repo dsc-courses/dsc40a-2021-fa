@@ -18,6 +18,18 @@ description: Course structure and policies.
 
 ---
 
+## About 🧐
+
+- How do we know if an avocado is going to be ripe before we eat it? 
+- How do we predict the salary of a future data scientist?
+- How do we teach a computer to read handwriting?
+
+The world is increasingly recognizing the value of data in solving complex and open-ended problems such as these. Instead of explicitly telling the computer exactly how to differentiate between the letters of the alphabet, we instead give the computer many examples of each letter and let it learn the differences automatically. Similarly, by identifying patterns in data, we can learn which factors combine to make an avocado ready-to-eat or a person likely to be a successful data scientist. The explosive growth of data science is largely due to the fact that this approach of learning from data often works remarkably well.
+
+But how do we learn from data? This is the central question of DSC 40A. We will see that virtually every rigorous learning method involves two steps: 1) turning the abstract problem of learning into a concrete math problem; and 2) solving that math problem. This quarter, we will see how to apply this fundamental approach in a variety of contexts. After this class, you will understand the basic theoretical principles underlying almost every machine learning and data science method — from simple linear regression to deep neural networks. You'll also be better prepared to tackle the math you'll see in your upper-division courses, like vector calculus, linear algebra, and probability.
+
+---
+
 ## Communication 💬
 
 This semester, we'll be using [Campuswire](campuswire.com/c/GF82D3B2E). Campuswire is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Campuswire automatically; email Suraj if you're not sure how to access it.
@@ -37,16 +49,12 @@ This semester, we'll be using [Campuswire](campuswire.com/c/GF82D3B2E). Campuswi
 Zoom links for all remote course events will be on [Campuswire](https://campuswire.com/c/GF82D3B2E/feed/1). (We won't make the Zoom link public, so that we don't get Zoom-bombed 💣.)
 
 ---
-
-## About 🧐
-
-From the course catalog: This course, the first of a two-course sequence (DSC 40A and DSC 40B), will introduce the theoretical foundations of data science. Students will become familiar with mathematical language for expressing data analysis problems and solution strategies, and will receive training in probabilistic reasoning, mathematical modeling of data, and algorithmic problem solving. DSC 40A will introduce fundamental topics in machine learning, statistics and linear algebra with applications to data analysis.
-
----
 <!-- 
 ## Course Structure 🍎
 
 ### Lecture
+
+There will be two lectures a week. While lectures are 
 
 There will be three lectures a week. In lecture, we'll introduce you to new ideas and concepts in programming and data science. **Lecture attendance is a part of your grade**; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. **Note:** Lecture recordings will only be accessible to students in the course; if you click the "Lecture recordings" link on the course homepage you'll be brought to a page on Ed that only enrolled students can view.
 

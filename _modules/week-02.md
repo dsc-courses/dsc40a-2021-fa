@@ -1,5 +1,5 @@
 ---
-    title: Week 2
+    title: Week 2 – Empirical Risk Minimization
     weekNumber: 2
     days:
       - date: 2021-9-28
