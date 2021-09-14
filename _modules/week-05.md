@@ -7,5 +7,5 @@
           "**8**{: .label .label-gray } The Linear Algebra Perspective":
       - date: 2021-10-21
         events:
-          "Midterm (in lecture)":
+          "**Midterm**{: .label .label-exam } Midterm (in class)":
 ---
