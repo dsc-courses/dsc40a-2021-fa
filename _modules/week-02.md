@@ -8,7 +8,7 @@
             "**2**{: .label .label-ghost } [slides](#) • reading: [Ch. 1, Pages 5-8](resources/notes/notes_chapter_1.pdf#page=5)"
       - date: 2021-09-29
         events:
-          "**Discussion 1**{: .label .label-disc} Mathematical Foundations":
+          "**Discussion 1**{: .label .label-disc} Mathematical Foundations (due TBD)":
       - date: 2021-9-30
         events:
           "**3**{: .label .label-gray } Mean Squared Error, Spread, The Modeling Process":
