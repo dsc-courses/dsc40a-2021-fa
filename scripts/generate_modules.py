@@ -12,7 +12,7 @@ df = pd.read_csv('scripts/Lecture Schedule – DSC 40A, Fall 2021 - Sheet1.csv')
 
 df['Week'] = df['Week'].fillna(method = 'ffill').astype(int)
 df['#'] = df['#'].fillna(0).astype(int)
-df['Lab'] = df['Lab'].astype(str)
+# df['Lab'] = df['Lab'].astype(str)
 df['Homework'] = df['Homework'].astype(str)
 
 # df = df.iloc[:-2]

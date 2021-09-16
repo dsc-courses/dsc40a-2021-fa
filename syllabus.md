@@ -207,7 +207,7 @@ Try your best not to worry about them, and we'll reciprocate by being fair. We'r
 
 ### Accommodations
 
-Students requesting accommodations for this course due to a disability or current functional limitation must provide a current Authorization for Accommodation (AFA) letter issued by the Office for Students with Disabilities (OSD). This AFA letter should be shared with the instructor and the Data Science OSD Liaison, who can be reached at [dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu). Please contact us by the end of Week 3 to make sure we can arrange accommodations as needed.
+Students requesting accommodations for this course due to a disability or current functional limitation must provide a current Authorization for Accommodation (AFA) letter issued by the [Office for Students with Disabilities](https://osd.ucsd.edu) (OSD). This AFA letter should be shared with the instructor and the Data Science OSD Liaison, who can be reached at [dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu). Please contact us by the end of Week 3 to make sure we can arrange accommodations as needed.
 
 ### Diversity and Inclusion
 

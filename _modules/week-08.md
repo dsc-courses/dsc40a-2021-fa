@@ -7,5 +7,5 @@
           "**13**{: .label .label-gray } Combinatorics":
       - date: 2021-11-11
         events:
-          "**14**{: .label .label-gray } Conditional Probability":
+          "N/A (Veteran's Day)":
 ---

@@ -4,8 +4,8 @@
     days:
       - date: 2021-11-30
         events:
-          "**18**{: .label .label-gray } Fun Stuff [simulations?]":
+          "**17**{: .label .label-gray } Naive Bayes":
       - date: 2021-12-2
         events:
-          "**19**{: .label .label-gray } Review":
+          "**18**{: .label .label-gray } Review, Conclusion":
 ---
