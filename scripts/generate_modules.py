@@ -103,7 +103,7 @@ def write_week(i, dest = '_modules', write = True):
 if len(sys.argv) > 1:
     start_from = int(sys.argv[1])
 else:
-    start_from = 1
+    start_from = np.min(df['Week'])
 
 for i in range(start_from, 12):
     write_week(i)

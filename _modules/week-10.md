@@ -2,10 +2,10 @@
     title: Week 10
     weekNumber: 10
     days:
-      - date: 2021-11-23
+      - date: 2021-11-30
         events:
-          "**16**{: .label .label-gray } Naive Bayes":
-      - date: 2021-11-25
+          "**17**{: .label .label-gray } Naive Bayes":
+      - date: 2021-12-2
         events:
-          "N/A (Thanksgiving)":
+          "**18**{: .label .label-gray } Review, Conclusion":
 ---

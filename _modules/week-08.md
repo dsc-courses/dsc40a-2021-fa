@@ -2,10 +2,10 @@
     title: Week 8
     weekNumber: 8
     days:
-      - date: 2021-11-9
+      - date: 2021-11-16
         events:
-          "**13**{: .label .label-gray } Combinatorics":
-      - date: 2021-11-11
+          "**14**{: .label .label-gray } Conditional Probability":
+      - date: 2021-11-18
         events:
-          "N/A (Veteran's Day)":
+          "**15**{: .label .label-gray } Independence":
 ---

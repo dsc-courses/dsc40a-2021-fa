@@ -2,10 +2,10 @@
     title: Week 7
     weekNumber: 7
     days:
-      - date: 2021-11-2
+      - date: 2021-11-9
         events:
-          "**11**{: .label .label-gray } k-Means Clustering":
-      - date: 2021-11-4
+          "**13**{: .label .label-gray } Combinatorics":
+      - date: 2021-11-11
         events:
-          "**12**{: .label .label-gray } Introduction to Probability; Set Theory":
+          "N/A (Veteran's Day)":
 ---

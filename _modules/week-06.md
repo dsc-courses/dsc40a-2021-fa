@@ -2,10 +2,10 @@
     title: Week 6
     weekNumber: 6
     days:
-      - date: 2021-10-26
+      - date: 2021-11-2
         events:
-          "**9**{: .label .label-gray } Feature Engineering":
-      - date: 2021-10-28
+          "**11**{: .label .label-gray } k-Means Clustering":
+      - date: 2021-11-4
         events:
-          "**10**{: .label .label-gray } Feature Engineering, Taxonomy of Machine Learning":
+          "**12**{: .label .label-gray } Introduction to Probability; Set Theory":
 ---

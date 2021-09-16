@@ -2,10 +2,7 @@
     title: Week 11
     weekNumber: 11
     days:
-      - date: 2021-11-30
+      - date: 2021-12-8
         events:
-          "**17**{: .label .label-gray } Naive Bayes":
-      - date: 2021-12-2
-        events:
-          "**18**{: .label .label-gray } Review, Conclusion":
+          "**Exam**{: .label .label-exam } Final Exam (11:30-2:30)":
 ---

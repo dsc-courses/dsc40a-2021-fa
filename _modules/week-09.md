@@ -2,10 +2,10 @@
     title: Week 9
     weekNumber: 9
     days:
-      - date: 2021-11-16
+      - date: 2021-11-23
         events:
-          "**14**{: .label .label-gray } Conditional Probability":
-      - date: 2021-11-18
+          "**16**{: .label .label-gray } Naive Bayes":
+      - date: 2021-11-25
         events:
-          "**15**{: .label .label-gray } Independence":
+          "N/A (Thanksgiving)":
 ---

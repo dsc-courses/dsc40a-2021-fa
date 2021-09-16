@@ -2,10 +2,10 @@
     title: Week 3
     weekNumber: 3
     days:
-      - date: 2021-10-5
+      - date: 2021-10-12
         events:
-          "**4**{: .label .label-gray } Other Loss Functions, Towards Gradient Descent":
-      - date: 2021-10-7
+          "**6**{: .label .label-gray } Simple Linear Regression":
+      - date: 2021-10-14
         events:
-          "**5**{: .label .label-gray } Gradient Descent and Convexity":
+          "**7**{: .label .label-gray } Simple Linear Regression, The Linear Algebra Perspective":
 ---

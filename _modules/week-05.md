@@ -2,10 +2,10 @@
     title: Week 5
     weekNumber: 5
     days:
-      - date: 2021-10-19
+      - date: 2021-10-26
         events:
-          "**8**{: .label .label-gray } The Linear Algebra Perspective":
-      - date: 2021-10-21
+          "**9**{: .label .label-gray } Feature Engineering":
+      - date: 2021-10-28
         events:
-          "Midterm (in lecture)":
+          "**10**{: .label .label-gray } Feature Engineering, Taxonomy of Machine Learning":
 ---
