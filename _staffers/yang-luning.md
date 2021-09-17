@@ -6,4 +6,4 @@ pronouns: he/him
 email: l4yang@ucsd.edu
 photo: ../assets/images/luning-yang.png
 ---
-Hi everyone! I'm Luning. I'm a junior majoring in data science and applied math. This is actually my first quarter serving as a UCSD tutor. So, I'm nervous about this course just as you are... However, since I study math, I think I understand the material of 40A well. 
+My hometown is Beijing, China. I aim for a Master of Data Science. I think I can “really learn” the course materials if I’m able to explain it to my peers. I’m excited to hold office hours and address my peers’ concern. My hobbies are playing chess, tending insects, and collecting action figures.

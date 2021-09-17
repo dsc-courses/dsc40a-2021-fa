@@ -8,13 +8,21 @@ description: Course structure and policies.
 # Syllabus 📖
 {:.no_toc}
 
-**Note (9/15): The contents of this page are incomplete and subject to change.**
-
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
+
+## Preface
+
+As of 9/17, the contents of this syllabus are still tentative, and subject to change.
+
+This is a long document! But we expect you to read it in its entirety at the start of the quarter, as it covers important details that we won't necessarily discuss in class.
+
+One thing we'll make clear here is that while lectures and some office hours will be held in-person, it is possible to take this class without needing to physically come to campus. See below for details.
 
 ---
 

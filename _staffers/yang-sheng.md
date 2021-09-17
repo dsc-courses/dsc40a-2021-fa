@@ -7,4 +7,4 @@ email: s8yang@ucsd.edu
 photo: ../assets/images/sheng-yang.png
 website: https://www.linkedin.com/in/sy66/
 ---
-Hi everyone! I am Sheng Yang, a senior double majoring in applied math and data science, and have my recent internship at a Quantitative Investment company. Feel free to chat with me on ML, especially its application on quant fields. I have a lot of fun things to share ~ 
+Hi everyone! I am a senior double majoring in Applied Math and Data Science from Guangzhou China. I am glad to relearn the fundamentals with you all, since advance models all build up from simple ideas in Dsc 40A. Besides, feel free to chat with me on ML, especially on Quantitative Investment topics. I have a lot of fun things about my recent intern to share ~

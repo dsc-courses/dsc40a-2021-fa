@@ -1,5 +1,5 @@
 ---
-    title: Week 0
+    title: Week 0 – Welcome to DSC 40A! 👋
     weekNumber: 0
     days:
       - date: 2021-9-23

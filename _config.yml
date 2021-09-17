@@ -27,7 +27,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Campuswire:
-    - 'campuswire.com/c/GF82D3B2E'
+    - 'https://campuswire.com/c/GF82D3B2E'
   Gradescope:
     - 'https://www.gradescope.com/courses/311394'
 footer_content:
