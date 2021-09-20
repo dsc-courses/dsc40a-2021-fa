@@ -17,7 +17,11 @@
     <p><b>{{ page.type }}</b></p>
     {% endif %}
     {% if page.email %}
-    <p><a>{{ page.email }}</a></p>
+    <p>{{ page.email }}</p>
+    {% endif %}
+
+    {% if page.lecture %}
+    <p><b>Lecture:</b> {{ page.lecture }}</p>
     {% endif %}
 
     {% if page.oh %}
