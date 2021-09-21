@@ -55,8 +55,7 @@ We will not be using Canvas much, if at all, this quarter; this website, Campusw
 We will be using several websites this quarter. Here's what they're all used for:
 
 - [Course Website](https://dsc40a.com): where all content will be posted.
-- [Campuswire](campuswire.com/c/GF82D3B2E/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur.
-- [DataHub](http://datahub.ucsd.edu): where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.)
+- [Campuswire](campuswire.com/c/GF82D3B2E/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to Campuswire; let us know if that's not the case.
 - [Gradescope](https://www.gradescope.com/courses/311394): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
 - [Zoom](https://ucsd.zoom.us): the virtual conferencing platform we will use for remote discussion and office hours. You should already have an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html) for more help. Note that you will not be expected to have a webcam!
 
