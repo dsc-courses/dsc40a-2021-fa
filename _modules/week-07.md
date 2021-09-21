@@ -4,7 +4,7 @@
     days:
       - date: 2021-11-9
         events:
-          "**13**{: .label .label-gray } Combinatorics":
+          "**LEC 13**{: .label .label-lecture } Combinatorics":
       - date: 2021-11-11
         events:
           "N/A (Veteran's Day)":

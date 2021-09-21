@@ -4,8 +4,8 @@
     days:
       - date: 2021-10-26
         events:
-          "**9**{: .label .label-gray } Feature Engineering":
+          "**LEC 9**{: .label .label-lecture } Feature Engineering":
       - date: 2021-10-28
         events:
-          "**10**{: .label .label-gray } Feature Engineering, Taxonomy of Machine Learning":
+          "**LEC 10**{: .label .label-lecture } Feature Engineering, Taxonomy of Machine Learning":
 ---

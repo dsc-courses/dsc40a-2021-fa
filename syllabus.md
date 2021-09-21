@@ -76,13 +76,13 @@ Lectures will include "Quick Check" questions that we will ask you to answer liv
 
 Discussion will be held **remotely via Zoom** on Wednesdays from 6-7PM.
 
-Discussion sections will be used to facilitate small group work with peers. Each Monday, we will provide a worksheet of problems, which should help reinforce concepts from that week's lecture and prepare you to do that week's homework assignment. In the discussion section on Wednesday evening, you will complete the worksheet in groups of two to four students. Show up and the TA will pair you with other students, though if you want to organize your own group, you may do so. Self-organized groups can also meet at a time that they arrange independently, but you are encouraged to come to the discussion section and do your work there if possible because TA help is available.
+Discussion sections will be used to facilitate small group work with peers. We will provide a worksheet of problems, which should help reinforce concepts from the recent lectures and prepare you to do that week's homework assignment. In the discussion section on Wednesday evening, you will complete the worksheet in groups of two to four students. Show up and the TA will pair you with other students, though if you want to organize your own group, you may do so. Self-organized groups can also meet at a time that they arrange independently, but you are encouraged to come to the discussion section and do your work there if possible because TA help is available.
    
-Worksheets are due to Gradescope by [TBD] at 11:59pm. Only one member of each group should submit the worksheet, and they should indicate the names of all group members. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.
+Worksheets are due to Gradescope by Thursday at 11:59pm. Only one member of each group should submit the worksheet, and they should indicate the names of all group members. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.
 
 ### Homeworks
 
-This class will have weekly homework assignments, which will usually be posted on the course website on Friday and due to Gradescope the following week, on Thursday at 11:59pm. [slip day policy TBD]
+This class will have weekly homework assignments, which will usually be posted on the course website on Monday and due to Gradescope the following week, on Monday at 11:59pm.
 
 Homeworks should be written up and turned in by each student individually. You may talk to other students in the class about the problems and discuss solution strategies, but you should not share any written communication (other than publicly on Campuswire). You can tell someone how to do a homework problem, but you cannot show them how to do it. One way to tell if you are respecting this boundary is to ask yourself whether your collaboration could take place over the phone. Additionally, the content of your verbal communication should involve the problem-solving strategy and approach, and you should not directly compare answers with classmates.
 
@@ -115,8 +115,9 @@ To summarize, here's what a typical week will look like in the course (note that
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 | -- | -- | -- | -- | -- |
-|  | Lecture | Discussion  | Lecture |  |
-| Discussion/groupwork worksheet released | | | Homework and Survey N due | Homework and Survey N+1 released | 
+|  | Lecture | Discussion/Groupwork  | Lecture |  |
+| Homework and Survey N released | | | | |
+| **Homework and Survey N-1 due** | | | **Groupwork due** | |
 
 ---
 

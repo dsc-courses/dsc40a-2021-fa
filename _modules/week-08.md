@@ -4,8 +4,8 @@
     days:
       - date: 2021-11-16
         events:
-          "**14**{: .label .label-gray } Conditional Probability":
+          "**LEC 14**{: .label .label-lecture } Conditional Probability":
       - date: 2021-11-18
         events:
-          "**15**{: .label .label-gray } Independence":
+          "**LEC 15**{: .label .label-lecture } Independence":
 ---

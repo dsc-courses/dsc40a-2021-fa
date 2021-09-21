@@ -4,8 +4,8 @@
     days:
       - date: 2021-11-30
         events:
-          "**17**{: .label .label-gray } Naive Bayes":
+          "**LEC 17**{: .label .label-lecture } Naive Bayes":
       - date: 2021-12-2
         events:
-          "**18**{: .label .label-gray } Review, Conclusion":
+          "**LEC 18**{: .label .label-lecture } Review, Conclusion":
 ---

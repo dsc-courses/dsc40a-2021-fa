@@ -2,10 +2,14 @@
     title: Week 2
     weekNumber: 2
     days:
+      - date: 2021-10-4
+        events:
+          "**HW 1**{: .label .label-hw } **MAE and MSE (due 10/4)**":
+          "**SRV 1**{: .label .label-survey } **Survey 1 (due 10/4)**":
       - date: 2021-10-5
         events:
-          "**4**{: .label .label-gray } Other Loss Functions, Towards Gradient Descent":
+          "**LEC 4**{: .label .label-lecture } Other Loss Functions, Towards Gradient Descent":
       - date: 2021-10-7
         events:
-          "**5**{: .label .label-gray } Gradient Descent and Convexity":
+          "**LEC 5**{: .label .label-lecture } Gradient Descent and Convexity":
 ---

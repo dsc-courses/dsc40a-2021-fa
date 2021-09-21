@@ -4,8 +4,8 @@
     days:
       - date: 2021-11-2
         events:
-          "**11**{: .label .label-gray } k-Means Clustering":
+          "**LEC 11**{: .label .label-lecture } k-Means Clustering":
       - date: 2021-11-4
         events:
-          "**12**{: .label .label-gray } Introduction to Probability; Set Theory":
+          "**LEC 12**{: .label .label-lecture } Introduction to Probability; Set Theory":
 ---
