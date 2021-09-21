@@ -116,8 +116,7 @@ To summarize, here's what a typical week will look like in the course (note that
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 | -- | -- | -- | -- | -- |
 |  | Lecture | Discussion/Groupwork  | Lecture |  |
-| Homework and Survey N released | | | | |
-| **Homework and Survey N-1 due** | | | **Groupwork due** | |
+| **Homework and Survey due** | | | **Groupwork due** | |
 
 ---
 
