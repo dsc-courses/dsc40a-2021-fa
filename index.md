@@ -17,7 +17,7 @@ seo:
 
 **This website is in progress and all content is subject to change.**
 
-[Lecture recordings](#){: .btn .btn-blue }
+[Lecture recordings](https://podcast.ucsd.edu/watch/fa21/dsc40a_a00){: .btn .btn-blue }
 
 {% for module in site.modules %}
 {{ module }}
