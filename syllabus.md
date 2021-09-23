@@ -77,7 +77,7 @@ Discussion will be held **remotely via Zoom** on Wednesdays from 6-7PM.
 
 Discussion sections will be used to facilitate small group work with peers. We will provide a worksheet of problems, which should help reinforce concepts from the recent lectures and prepare you to do that week's homework assignment. In the discussion section on Wednesday evening, you will complete the worksheet in groups of two to four students. Show up and the TA will pair you with other students, though if you want to organize your own group, you may do so. Self-organized groups can also meet at a time that they arrange independently, but you are encouraged to come to the discussion section and do your work there if possible because TA help is available.
    
-Worksheets are due to Gradescope by Thursday at 11:59pm. Only one member of each group should submit the worksheet, and they should indicate the names of all group members. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.
+Worksheets are due to Gradescope by Thursday at 11:59pm. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students (no more, no less) for at least 50 minutes. You may not do the groupwork alone.**
 
 ### Homeworks
 
@@ -144,9 +144,9 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Homework | 40% | 7, drop 1 |
-| Groupwork (Discussion worksheets) | 10% | 7, drop 1 |
-| Weekly Surveys | 5% | 8, drop 1 |
+| Homework | 40% | drop lowest |
+| Groupwork (Discussion worksheets) | 10% | drop lowest |
+| Weekly Surveys | 5% | drop lowest |
 | Midterm Exam | 15% | see the Redemption Policy above |
 | Final Exam | 30% | |
 
@@ -162,7 +162,7 @@ Slip days are designed to be a transparent and predictable source of leniency in
 
 **If you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out.**
 
-In addition to providing you with slip days, we will drop your lowest homework, groupwork, and survey. This gives you some additional flexibility for unforeseen circumstances. Specifically, There will be 7 homework assignments; your homework grade will be the average of your highest 6 homework scores (meaning that 1 is dropped). The same scheme applies to groupwork worksheets. There will be one survey accompanying each homework plus a final feedback survey for a total of 8; similarly, we will drop your lowest survey score.
+In addition to providing you with slip days, we will drop your lowest homework, groupwork, and survey. This gives you some additional flexibility for unforeseen circumstances.
 
 Students on the waitlist or who join the class late are expected to keep up with the work and submit assignments by the deadlines.
 
