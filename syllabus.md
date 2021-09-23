@@ -128,7 +128,7 @@ There will be two exams this quarter:
 
 The Midterm Exam will be worth 15% of your overall course grade and will only cover content from Lectures 1-7. The Final Exam will be worth 30% of your overall course grade and will be cumulative.
 
-Both exams will be held remotely (due to COVID concerns) and synchronously (i.e. you will have to take the exam at the specified time, unless you make prior arrangements with us). We will employ Zoom proctoring for both exams.
+Both exams will be held remotely (due to COVID concerns) and synchronously (i.e. you will have to take the exam at the specified time, unless you make prior arrangements with us).
 
 ### Redemption Policy
 

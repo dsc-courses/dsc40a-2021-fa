@@ -17,7 +17,7 @@ seo:
 
 **This website is in progress and all content is subject to change.**
 
-[Zoom links](https://campuswire.com/c/GF82D3B2E/feed/1){: .btn .btn-purple } [Lecture recordings](#){: .btn .btn-blue }
+[Lecture recordings](#){: .btn .btn-blue }
 
 {% for module in site.modules %}
 {{ module }}

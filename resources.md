@@ -7,4 +7,4 @@ nav_order: 4
 
 # Resources 📚
 
-TBD
+Resources will be added here as the quarter progresses.
