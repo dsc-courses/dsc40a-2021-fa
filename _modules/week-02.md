@@ -4,7 +4,7 @@
     days:
       - date: 2021-10-4
         events:
-          "**HW 1**{: .label .label-hw } **MAE and MSE (due 10/4)**":
+          "**HW 1**{: .label .label-hw } **[MAE and MSE (due 10/4)](../resources/homework/hw01.pdf)**":
           "**SRV 1**{: .label .label-survey } **Survey 1 (due 10/4)**":
       - date: 2021-10-5
         events:
