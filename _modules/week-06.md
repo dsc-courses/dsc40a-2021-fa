@@ -1,5 +1,5 @@
 ---
-    title: Week 6
+    title: Week 6 – Clustering, Probability
     weekNumber: 6
     days:
       - date: 2021-11-2

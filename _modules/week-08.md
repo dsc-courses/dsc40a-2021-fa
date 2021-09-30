@@ -1,5 +1,5 @@
 ---
-    title: Week 8
+    title: Week 8 – More Probability
     weekNumber: 8
     days:
       - date: 2021-11-16

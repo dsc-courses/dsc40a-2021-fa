@@ -1,5 +1,5 @@
 ---
-    title: Week 10
+    title: Week 10 – Conclusion
     weekNumber: 10
     days:
       - date: 2021-11-30

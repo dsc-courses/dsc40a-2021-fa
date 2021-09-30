@@ -1,5 +1,5 @@
 ---
-    title: Week 3
+    title: Week 3 – Simple Linear Regression
     weekNumber: 3
     days:
       - date: 2021-10-12

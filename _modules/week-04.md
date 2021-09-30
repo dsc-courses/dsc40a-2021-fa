@@ -1,5 +1,5 @@
 ---
-    title: Week 4
+    title: Week 4 – Midterm
     weekNumber: 4
     days:
       - date: 2021-10-19

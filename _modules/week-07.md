@@ -1,5 +1,5 @@
 ---
-    title: Week 7
+    title: Week 7 – Combinatorics
     weekNumber: 7
     days:
       - date: 2021-11-9
