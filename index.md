@@ -15,7 +15,7 @@ seo:
 
 {{ site.staffersnobio }}
 
-[Lecture recordings](https://podcast.ucsd.edu/watch/fa21/dsc40a_a00){: .btn .btn-blue }
+[Lecture Recordings](https://podcast.ucsd.edu/watch/fa21/dsc40a_a00){: .btn .btn-blue } [Assignment Solutions](https://campuswire.com/c/GF82D3B2E/feed/73){: .btn .btn-purple }
 
 {% for module in site.modules %}
 {{ module }}
