@@ -10,6 +10,9 @@
         events:
           "**LEC 4**{: .label .label-lecture } [Spread, Other Loss Functions, Gradient Descent](../resources/lecture/lec04.pdf)":
             "[Spread](resources/notes/spread.pdf); [C1, P12-](resources/notes/notes_chapter_1.pdf#page=12)"
+      - date: 2021-10-6
+        events:
+          "**DISC 2**{: .label .label-disc} **[Empirical Risk and Gradient Descent (due 10/7)](../resources/groupwork/groupwork02.pdf)**":
       - date: 2021-10-7
         events:
           "**LEC 5**{: .label .label-lecture } Gradient Descent and Convexity":
