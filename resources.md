@@ -19,3 +19,4 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 | 3 | Mean Squared Error and Empirical Risk Minimization | 10:45 onwards of [Video 3](https://youtu.be/LYJW_2odH_E) <br> [Video 4](https://youtu.be/usam2JTOaLg) |
 | 4 | Spread, Other Loss Functions, and Gradient Descent | [Video 8](https://youtu.be/NdkDK3Jb6SY) <br> [Video 5](https://youtu.be/Syw_PfmWDRg) <br> first 5:00 of [Video 6](https://youtu.be/F2ImJ3dkkZ8) |
 | 5 | Gradient Descent and Convexity | 5:00 onwards of [Video 6](https://youtu.be/F2ImJ3dkkZ8) <br> [Video 7](https://youtu.be/1TjwPNY2Gzw) |
+| 6 | Simple Linear Regression | [Video 9](https://youtu.be/3RiaKo2jGIk) <br> [Video 10](https://youtu.be/Ac1EFASUA9M) <br> first 4:30 of [Video 11](https://youtu.be/0sWcrJSAUFQ) |
