@@ -10,6 +10,9 @@
         events:
           "**LEC 6**{: .label .label-lecture } [Simple Linear Regression](../resources/lecture/lec06.pdf)":
             "[C2, P1-7](resources/notes/notes_chapter_2.pdf#page=1)"
+      - date: 2021-10-13
+        events:
+          "**DISC 3**{: .label .label-disc} **[Simple Linear Regression (due 10/14)](../resources/groupwork/groupwork03.pdf)**":
       - date: 2021-10-14
         events:
           "**LEC 7**{: .label .label-lecture } Simple Linear Regression, The Linear Algebra Perspective":
