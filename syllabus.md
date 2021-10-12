@@ -57,7 +57,7 @@ We will be using several websites this quarter. Here's what they're all used for
 - [Course Website](https://dsc40a.com): where all content will be posted.
 - [Campuswire](campuswire.com/c/GF82D3B2E/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to Campuswire; let us know if that's not the case.
 - [Gradescope](https://www.gradescope.com/courses/311394): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
-- [Zoom](https://ucsd.zoom.us): the virtual conferencing platform we will use for remote discussion and office hours. You should already have an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html) for more help. Note that you will not be expected to have a webcam!
+- [Zoom](https://ucsd.zoom.us): the virtual conferencing platform we will use for some office hours. You should already have an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html) for more help. Note that you will not be expected to have a webcam!
 
 If you will not have reliable access to a computer this quarter, please reach out to us ASAP, as the university may be able to accommodate you.
 
@@ -73,7 +73,7 @@ Lectures will include "Quick Check" questions that we will ask you to answer liv
 
 ### Discussion
 
-Discussion will be held **remotely via Zoom** on Wednesdays from 6-7PM.
+**EDIT:** As of 10/13, discussion will be held **IN PERSON** on Wednesdays from 6-7PM in Center Hall 113.
 
 Discussion sections will be used to facilitate small group work with peers. We will provide a worksheet of problems, which should help reinforce concepts from the recent lectures and prepare you to do that week's homework assignment. In the discussion section on Wednesday evening, you will complete the worksheet in groups of two to four students. Show up and the TA will pair you with other students, though if you want to organize your own group, you may do so. Self-organized groups can also meet at a time that they arrange independently, but you are encouraged to come to the discussion section and do your work there if possible because TA help is available.
    
@@ -81,7 +81,7 @@ Worksheets are due to Gradescope by Thursday at 11:59pm. Only one member of each
 
 ### Homeworks
 
-This class will have weekly homework assignments, which will usually be posted on the course website on Monday and due to Gradescope the following week, on Monday at 11:59pm.
+This class will have weekly homework assignments, which will usually be due to Gradescope on Mondays at 11:59pm. We will aim to release homework assignments the Tuesday of the previous week.
 
 Homeworks should be written up and turned in by each student individually. You may talk to other students in the class about the problems and discuss solution strategies, but you should not share any written communication (other than publicly on Campuswire). You can tell someone how to do a homework problem, but you cannot show them how to do it. One way to tell if you are respecting this boundary is to ask yourself whether your collaboration could take place over the phone. Additionally, the content of your verbal communication should involve the problem-solving strategy and approach, and you should not directly compare answers with classmates.
 
