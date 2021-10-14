@@ -15,5 +15,6 @@
           "**DISC 3**{: .label .label-disc} **[Simple Linear Regression (due 10/14)](../resources/groupwork/groupwork03.pdf)**":
       - date: 2021-10-14
         events:
-          "**LEC 7**{: .label .label-lecture } Simple Linear Regression, The Linear Algebra Perspective":
+          "**LEC 7**{: .label .label-lecture } [More Simple Linear Regression](../resources/lecture/lec07.pdf) ([code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2021-fa&subPath=lectures/lec07/lec07.ipynb))":
+            "[C2, P1-7](resources/notes/notes_chapter_2.pdf#page=1), [DSC10](https://inferentialthinking.com/chapters/15/1/Correlation.html)"
 ---
