@@ -44,7 +44,7 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 Below, you'll find some exams (and in some cases, their solutions) from previous offerings of the course.
 
 Some things to keep in mind:
-- In many earlier offerings of the course, there were two Midterms – Midterm 1 covered empirical risk minimization, and Midterm 2 covered probability. In addition, often times Part 1 of the Final covered content similar to that of Midterm 1 (empirical risk minimization), and Part 2 of the Final coverted content similar to that of Midterm 2 (probability).
+- In many earlier offerings of the course, there were two Midterms – Midterm 1 covered empirical risk minimization, and Midterm 2 covered probability. In addition, often times Part 1 of the Final covered content similar to that of Midterm 1 (empirical risk minimization), and Part 2 of the Final covered content similar to that of Midterm 2 (probability).
 - Topic coverage and ordering has changed over time, so the content in our Midterm won't necessary match the content of earlier Midterms/Midterm 1.
 
 
