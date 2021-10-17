@@ -31,29 +31,31 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 
 <br>
 
+
+## Past Exams and Videos
+
+Below, you'll find some exams (and in some cases, their solutions) from previous offerings of the course. You must be logged into your @ucsd.edu Google account to access these.
+
+Some things to keep in mind:
+- In many earlier offerings of the course, there were two Midterms – Midterm 1 covered empirical risk minimization, and Midterm 2 covered probability. In addition, often times Part 1 of the Final covered content similar to that of Midterm 1 (empirical risk minimization), and Part 2 of the Final covered content similar to that of Midterm 2 (probability).
+- Topic coverage and ordering has changed over time, so the content in our Midterm won't necessary match the content of earlier Midterms/Midterm 1.
+
+We've created video walkthroughs of a few problems from past exams. We will try to make more as the quarter progresses. You can find these videos linked in the table below by exam, or [click this link](https://loom.com/share/folder/4fc904896cbf4595937e1c66b77611e4) to see a playlist of them all.
+
+| Quarter | Instructor(s) | Midterm/Midterm 1 | Midterm 2 | Final |
+| --- | --- | --- |
+| Spring 2021 | Janine Tiefenbruck | [Blank](https://drive.google.com/file/d/159JnzNtjw0okeucxBXmunU9u_H2ka2sa/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1XZyNNI5bHM0QjkmdVm5XhqcGpKliaRgO/view?usp=sharing), [**Videos 🎬**](https://loom.com/share/folder/16b5b70860204f56a8701b98c4a897f9) | -- | Part 1: [Blank](https://drive.google.com/file/d/1-J48ZsXeipJ_MQppCUWj0djafmMVC1nz/view?usp=sharing), [Solutions](https://drive.google.com/file/d/18-JfCPXTVMBqOpbEqtgFTh45erm97cV5/view?usp=sharing) |
+| Winter 2021 | Gal Mishne | [Blank](https://drive.google.com/file/d/13MMQfqO11QiXjfEkFh3Ftua2U205GyVG/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1EymkLTxyTTA7LzeWArWIwlYi5Frt1Brm/view?usp=sharing) | [Blank](https://drive.google.com/file/d/1sXDFx1chSvEo-2IujX04entAtWRdEssz/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1ZumQumC0XS-nFbjyhx3Ol1WFITFnJgMT/view?usp=sharing) | Part 1: [Solutions](https://drive.google.com/file/d/1ptFdOOMKJ0dJxtX8Fg5otHdeyMuQhT3f/view?usp=sharing) <br> Part 2: [Solutions](https://drive.google.com/file/d/1VBqzXtnWGhSwMBU-ydXtfZZdde2wDzNt/view?usp=sharing) |
+| Fall 2020 | Janine Tiefenbruck, Yian Ma | [Blank](https://drive.google.com/file/d/1n_yvPUyGfp9p6406FXrTD52xc_Tctykv/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1sOFCym0FrMF7ZCf_Q6Gz3icF8iIdlkPt/view?usp=sharing) | -- | Part 1: [Blank](https://drive.google.com/file/d/1xx0ovIBlmlNM2Jls6CIcyxsIYcwBNdic/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1jbIO2xz0MMSTs1VUlu07yiNJYrMRU8Np/view?usp=sharing) |
+| Spring 2020 | Janine Tiefenbruck | [Blank](https://drive.google.com/file/d/1rORHtb7uw9hsYec-2LWwKMh3ikEaxVVf/view?usp=sharing), [**Videos 🎬**](https://loom.com/share/folder/49e1899479164b5296fe513091b019ca) | -- | Part 1: [Blank](https://drive.google.com/file/d/1LPnysH4z6aadrJPqwSXtk_APs1jaXMr3/view?usp=sharing) |
+| Winter 2020 | Justin Eldridge | [Solutions](https://drive.google.com/file/d/1-eQjRyfl-v8IkLuvJYnYTdtw0T72I87C/view?usp=sharing) | [Solutions](https://drive.google.com/file/d/1cIq2W52LJVrNbC4hnL1oeU4JtyOpwCIW/view?usp=sharing) | [Solutions](https://drive.google.com/file/d/17_ITSLkzNdJhWezBqJsORhiaViIWW6aV/view?usp=sharing) |
+
+<br>
+
 ## Other Resources
 
 - Other lectures on [Loss Functions](http://ds100.org/su20/lecture/lec11) and [Simple Linear Regression](http://ds100.org/su20/lecture/lec12/).
     - These are from a different course for a different audience, and use different notation and terminology. However, the high-level ideas are similar to those in the first few weeks of our course.
 - [Gradient Descent visualizer](https://uclaacm.github.io/gradient-descent-visualiser/#playground).
 
-<br>
-
-## Past Exams
-
-Below, you'll find some exams (and in some cases, their solutions) from previous offerings of the course.
-
-Some things to keep in mind:
-- In many earlier offerings of the course, there were two Midterms – Midterm 1 covered empirical risk minimization, and Midterm 2 covered probability. In addition, often times Part 1 of the Final covered content similar to that of Midterm 1 (empirical risk minimization), and Part 2 of the Final covered content similar to that of Midterm 2 (probability).
-- Topic coverage and ordering has changed over time, so the content in our Midterm won't necessary match the content of earlier Midterms/Midterm 1.
-
-
-You must be logged into your @ucsd.edu Google account to access these.
-
-| Quarter | Instructor(s) | Midterm/Midterm 1 | Midterm 2 | Final |
-| --- | --- | --- |
-| Spring 2021 | Janine Tiefenbruck | [Blank](https://drive.google.com/file/d/159JnzNtjw0okeucxBXmunU9u_H2ka2sa/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1XZyNNI5bHM0QjkmdVm5XhqcGpKliaRgO/view?usp=sharing) <br> • [Problem 1 Video](https://www.loom.com/share/b1304db803a44e74b4172efc8fac9296) | -- | Part 1: [Blank](https://drive.google.com/file/d/1-J48ZsXeipJ_MQppCUWj0djafmMVC1nz/view?usp=sharing), [Solutions](https://drive.google.com/file/d/18-JfCPXTVMBqOpbEqtgFTh45erm97cV5/view?usp=sharing) |
-| Winter 2021 | Gal Mishne | [Blank](https://drive.google.com/file/d/13MMQfqO11QiXjfEkFh3Ftua2U205GyVG/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1EymkLTxyTTA7LzeWArWIwlYi5Frt1Brm/view?usp=sharing) | [Blank](https://drive.google.com/file/d/1sXDFx1chSvEo-2IujX04entAtWRdEssz/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1ZumQumC0XS-nFbjyhx3Ol1WFITFnJgMT/view?usp=sharing) | Part 1: [Solutions](https://drive.google.com/file/d/1ptFdOOMKJ0dJxtX8Fg5otHdeyMuQhT3f/view?usp=sharing) <br> Part 2: [Solutions](https://drive.google.com/file/d/1VBqzXtnWGhSwMBU-ydXtfZZdde2wDzNt/view?usp=sharing) |
-| Fall 2020 | Janine Tiefenbruck, Yian Ma | [Blank](https://drive.google.com/file/d/1n_yvPUyGfp9p6406FXrTD52xc_Tctykv/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1sOFCym0FrMF7ZCf_Q6Gz3icF8iIdlkPt/view?usp=sharing) | -- | Part 1: [Blank](https://drive.google.com/file/d/1xx0ovIBlmlNM2Jls6CIcyxsIYcwBNdic/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1jbIO2xz0MMSTs1VUlu07yiNJYrMRU8Np/view?usp=sharing) |
-| Spring 2020 | Janine Tiefenbruck | [Blank](https://drive.google.com/file/d/1rORHtb7uw9hsYec-2LWwKMh3ikEaxVVf/view?usp=sharing) | -- | Part 1: [Blank](https://drive.google.com/file/d/1LPnysH4z6aadrJPqwSXtk_APs1jaXMr3/view?usp=sharing) |
-| Winter 2020 | Justin Eldridge | [Solutions](https://drive.google.com/file/d/1-eQjRyfl-v8IkLuvJYnYTdtw0T72I87C/view?usp=sharing) | [Solutions](https://drive.google.com/file/d/1cIq2W52LJVrNbC4hnL1oeU4JtyOpwCIW/view?usp=sharing) | [Solutions](https://drive.google.com/file/d/17_ITSLkzNdJhWezBqJsORhiaViIWW6aV/view?usp=sharing) |
+If you find another helpful resource, let us know and we can link it here!
