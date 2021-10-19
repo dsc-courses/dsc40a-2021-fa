@@ -28,6 +28,7 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 | 5 | Gradient Descent and Convexity | 5:00 onwards of [Video 6](https://youtu.be/F2ImJ3dkkZ8) <br> [Video 7](https://youtu.be/1TjwPNY2Gzw) |
 | 6 | Simple Linear Regression | [Video 9](https://youtu.be/3RiaKo2jGIk) <br> [Video 10](https://youtu.be/Ac1EFASUA9M) <br> first 4:30 of [Video 11](https://youtu.be/0sWcrJSAUFQ) |
 | 7 | More Simple Linear Regression | 4:30 onwards of [Video 11](https://youtu.be/0sWcrJSAUFQ) <br> first 17:00 of [Video 13](https://youtu.be/7k3KtI4NFas) <br> (correlation is not covered in past lectures) |
+| 8 | Regression and Linear Algebra | 17:00 onwards of [Video 13](https://youtu.be/7k3KtI4NFas) <br> [Video 14](https://youtu.be/2ebdHtxb4as) |
 
 <br>
 
