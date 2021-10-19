@@ -10,7 +10,7 @@
         events:
           "**LEC 8**{: .label .label-lecture } [Regression and Linear Algebra](../resources/lecture/lec08.pdf) ([code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2021-fa&subPath=lectures/lec08/lec08.ipynb))":
             "[C2, P9-13](resources/notes/notes_chapter_2.pdf#page=9)"
-          "**REV**{: .label .label-proj } Midterm Review Session (5-8PM, PCYNH 109)":
+          "**REV**{: .label .label-proj } [Midterm Review Session](../resources/lecture/midterm-review.pdf) (5-8PM, PCYNH 109)":
       - date: 2021-10-21
         events:
           "**Exam**{: .label .label-exam } Midterm (in lecture)":
