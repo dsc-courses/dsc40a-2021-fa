@@ -30,6 +30,7 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 | 7 | More Simple Linear Regression | 4:30 onwards of [Video 11](https://youtu.be/0sWcrJSAUFQ) <br> first 17:00 of [Video 13](https://youtu.be/7k3KtI4NFas) <br> (correlation is not covered in past lectures) |
 | 8 | Regression and Linear Algebra | 17:00 onwards of [Video 13](https://youtu.be/7k3KtI4NFas) <br> [Video 14](https://youtu.be/2ebdHtxb4as) |
 | 9 | Multiple Linear Regression and Feature Engineering | [Video 16](https://youtu.be/tuezO9tiXnE) <br> [Video 15](https://youtu.be/uIbnLq6IZLI) |
+| 10 | Feature Engineering, Clustering | [Video 15](https://youtu.be/uIbnLq6IZLI) <br> [Video 17](https://youtu.be/dDn6iPpbH4E) |
 
 <br>
 

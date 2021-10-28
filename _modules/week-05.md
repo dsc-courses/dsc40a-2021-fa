@@ -11,5 +11,6 @@
           "**DISC 4**{: .label .label-disc} **[Multiple Linear Regression (due 10/28)](../resources/groupwork/groupwork04.pdf)**":
       - date: 2021-10-28
         events:
-          "**LEC 10**{: .label .label-lecture } Feature Engineering, Taxonomy of Machine Learning":
+          "**LEC 10**{: .label .label-lecture } [Feature Engineering, Clustering](../resources/lecture/lec10-blank.pdf) ([code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2021-fa&subPath=lectures/lec10/lec10.ipynb))":
+            "[C2, P14-19](resources/notes/notes_chapter_2.pdf#page=14)"
 ---
