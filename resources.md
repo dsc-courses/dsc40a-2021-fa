@@ -31,9 +31,32 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 | 8 | Regression and Linear Algebra | 17:00 onwards of [Video 13](https://youtu.be/7k3KtI4NFas) <br> [Video 14](https://youtu.be/2ebdHtxb4as) |
 | 9 | Multiple Linear Regression and Feature Engineering | [Video 16](https://youtu.be/tuezO9tiXnE) <br> [Video 15](https://youtu.be/uIbnLq6IZLI) |
 | 10 | Feature Engineering, Clustering | [Video 15](https://youtu.be/uIbnLq6IZLI) <br> [Video 17](https://youtu.be/dDn6iPpbH4E) |
+| 11 | Clustering, Introduction to Probability | [Video 18](https://youtu.be/UPxe97Wc1gM) <br> first 10:00 of [Video 19](https://youtu.be/ikLzykAaLOk) |
 
 <br>
 
+## Probability
+Unlike the first half of the course, where we had course notes written specifically for this class, we don't have DSC 40A-specific notes for the second half of the class, because there are many high-quality resources available online that cover the same material. Below, you'll find links to some of these resources.
+
+### Readings
+
+- [Open Intro Statistics](https://www.openintro.org/download.php?file=os0&referrer=/stat/textbook.php): Sections 2.1, 2.3, and 2.4 cover the probability we are learning in this course at a good level for undergraduates. This is a good substitute for a textbook, similar to the course notes that we had for the first part of the course. It goes through the definitions, terminology, probability rules, and how to use them. It's succinct and highlights the most important things.
+
+- [Probability for Data Science](https://textbook.prob140.org/): Chapters 1 and 2 of this book have a lot of good examples demonstrating some standard problem-solving techniques. This book should be primarily useful for more problems to practice and learn from. This book is written at a good level for students in this class. It used at UC Berkeley in their Probability for Data Science course. Our course only really covers material from the first two chapters, but if you want to extend your learning of probability as it applies to data science, this is a good book to help you do that.
+
+- [Theory Meets Data](http://stat88.org/textbook/notebooks/intro): Chapters 1 and 2 of this book cover similar content to Chapters 1 and 2 of the Probability for Data Science book, but with different prose and examples. It is used at UC Berkeley for a more introductory Probability for Data Science course.
+
+- [Grinstead and Snell's Introduction to Probability](https://cse103.github.io/Resources/GrinsteadSnell.pdf): Chapters 1, 3, and 4.1 of this book cover the material from our class. This book is a lot longer and more detailed than the others, and it uses more formal mathematical notation. It should give you a very thorough understanding of probability and combinatorics, but it is a lot more detailed, so the more abbreviated resources above will likely be more useful. With that said, this book is written at a good level for undergraduates and is used in other undergraduate probability classes at UCSD, such as CSE 103.
+
+- [Introduction to Mathematical Thinking](http://imt-decal.org): This course (taught by Suraj a few years ago) covers topics in discrete math, some of which are relevant to us (in particular, set theory and counting). In addition to the lecture videos linked on the homepage, you may want to look at the [notes section](http://notes.imt-decal.org).
+
+- [Khan Academy: Counting, Permutations, and Combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations#combinatorics-probability): Khan Academy has a good unit called Counting, Permutations, and Combinations that should be pretty helpful for the combinatorics we are learning in this class. A useful aspect of it is the practice questions that combine permutations and combinations. Most students find that the hardest part of these counting problems is knowing when to use permutations and when to use combinations. These practice questions have them mixed together, so you really get practice learning which is the right technique to apply to which situation.
+
+### Roadmap
+During the Spring 2021 offering of the course, Janine Tiefenbruck wrote a "Probability Roadmap" that aims to guide students through the process of solving probability problems.
+- [Examples](../resources/probability/Probability_Roadmap_With_Examples.pdf): This document consists of strategies followed by example problems that employ those strategies. If you're looking to gain additional practice, start here.
+- [Solutions](../resources/probability/Probability_Roadmap_With_Solutions.pdf): This document contains solutions and explanations for all of the example problems in the first document. After you've attempted the problems on your own, read through this full document. Even if you've solved all the questions, you're likely to learn how to do some problems in new ways.
+- [Summary](../resources/probability/Probability_Roadmap_Summary.pdf): This document is concise and contains only the strategies themselves.
 
 ## Past Exams and Videos
 
