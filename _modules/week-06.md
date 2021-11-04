@@ -12,5 +12,5 @@
           "**DISC 5**{: .label .label-disc} **[Foundations of Probability (due 11/4)](../resources/groupwork/groupwork05.pdf)**":
       - date: 2021-11-4
         events:
-          "**LEC 12**{: .label .label-lecture } [Foundations of Probability](../resources/lecture/lec12-blank.pdf)":
+          "**LEC 12**{: .label .label-lecture } [Foundations of Probability](../resources/lecture/lec12-filled.pdf) ([blank](../resources/lecture/lec12-blank.pdf))":
 ---
