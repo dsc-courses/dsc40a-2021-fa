@@ -9,8 +9,8 @@
           "**SRV 4**{: .label .label-survey } **[Survey 4 (due 11/2)](https://docs.google.com/forms/d/e/1FAIpQLScWObFir1OeM9nes5vXqG-97xCZUkiwKyJSITDs4O6RW4ZRGw/viewform)**":
       - date: 2021-11-13
         events:
-          "**DISC 5**{: .label .label-disc} **[Fundamentals of Probability (due 11/4)](../resources/groupwork/groupwork05.pdf)**":
+          "**DISC 5**{: .label .label-disc} **[Foundations of Probability (due 11/4)](../resources/groupwork/groupwork05.pdf)**":
       - date: 2021-11-4
         events:
-          "**LEC 12**{: .label .label-lecture } Fundamentals of Probability":
+          "**LEC 12**{: .label .label-lecture } [Foundations of Probability](../resources/lecture/lec12-blank.pdf)":
 ---
