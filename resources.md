@@ -32,7 +32,7 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 | 9 | Multiple Linear Regression and Feature Engineering | [Video 16](https://youtu.be/tuezO9tiXnE) <br> [Video 15](https://youtu.be/uIbnLq6IZLI) |
 | 10 | Feature Engineering, Clustering | [Video 15](https://youtu.be/uIbnLq6IZLI) <br> [Video 17](https://youtu.be/dDn6iPpbH4E) |
 | 11 | Clustering, Introduction to Probability | [Video 18](https://youtu.be/UPxe97Wc1gM) <br> first 10:00 of [Video 19](https://youtu.be/ikLzykAaLOk) |
-
+| 12 | Foundations of Probability | 10:00 onwards of [Video 19](https://youtu.be/ikLzykAaLOk) <br> [Video 20](https://youtu.be/qHOG3yc4UzE) |
 <br>
 
 ## Probability
