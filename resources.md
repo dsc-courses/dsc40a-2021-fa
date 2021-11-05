@@ -21,6 +21,7 @@ Resources will be added here as the quarter progresses.
 In the table below, you can find lecture videos created by Janine Tiefenbruck, who created this course and taught it many times. The lecture videos linked below will generally be pretty similar in content coverage to our lectures, but there will be occasional differences. You are responsible for everything covered in our lectures, even if something doesn't appear in the videos below. When in doubt, refer to the main lecture slides posted and ask on Campuswire.
 
 | **#** | **Lecture Title** | **Links** |
+| --- | --- | --- |
 | 1 | Introduction, Learning From Data | [Video 1](https://youtu.be/6tP6crJr32U) |
 | 2 | Mean Absolute Error | [Video 2](https://youtu.be/ad2S7XnCSVc)<br> first 10:45 of [Video 3](https://youtu.be/LYJW_2odH_E) |
 | 3 | Mean Squared Error and Empirical Risk Minimization | 10:45 onwards of [Video 3](https://youtu.be/LYJW_2odH_E) <br> [Video 4](https://youtu.be/usam2JTOaLg) |
@@ -33,6 +34,7 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 | 10 | Feature Engineering, Clustering | [Video 15](https://youtu.be/uIbnLq6IZLI) <br> [Video 17](https://youtu.be/dDn6iPpbH4E) |
 | 11 | Clustering, Introduction to Probability | [Video 18](https://youtu.be/UPxe97Wc1gM) <br> first 10:00 of [Video 19](https://youtu.be/ikLzykAaLOk) |
 | 12 | Foundations of Probability | 10:00 onwards of [Video 19](https://youtu.be/ikLzykAaLOk) <br> [Video 20](https://youtu.be/qHOG3yc4UzE) |
+
 <br>
 
 ## Probability
