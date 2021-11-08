@@ -5,7 +5,7 @@
       - date: 2021-11-8
         events:
           "**HW 5**{: .label .label-hw } **[Transformations, Clustering, and Probability (due 11/8)](../resources/homework/hw05.pdf)**":
-          "**SRV 5**{: .label .label-survey } **Survey 5 (due 11/8)**":
+          "**SRV 5**{: .label .label-survey } **[Survey 5 (due 11/8)](https://docs.google.com/forms/d/e/1FAIpQLSdmpJnBpPKE8FfPjvBJ-uT6KCNKQjEOw79yJ7Omb6pJWyBotg/viewform)**":
       - date: 2021-11-9
         events:
           "**LEC 13**{: .label .label-lecture } Combinatorics":
