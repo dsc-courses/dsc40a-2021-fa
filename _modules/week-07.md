@@ -8,7 +8,7 @@
           "**SRV 5**{: .label .label-survey } **[Survey 5 (due 11/8)](https://docs.google.com/forms/d/e/1FAIpQLSdmpJnBpPKE8FfPjvBJ-uT6KCNKQjEOw79yJ7Omb6pJWyBotg/viewform)**":
       - date: 2021-11-9
         events:
-          "**LEC 13**{: .label .label-lecture } [Combinatorics](../resources/lecture/lec13-blank.pdf)":
+          "**LEC 13**{: .label .label-lecture } [Combinatorics](../resources/lecture/lec13-filled.pdf) ([blank](../resources/lecture/lec13-blank.pdf)) ([extra video](https://youtu.be/-PN1bp5AZMA))":
       - date: 2021-11-10
         events:
           "**DISC 6**{: .label .label-disc} **Combinatorics (due 11/12)**":
