@@ -34,6 +34,7 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 | 10 | Feature Engineering, Clustering | [Video 15](https://youtu.be/uIbnLq6IZLI) <br> [Video 17](https://youtu.be/dDn6iPpbH4E) |
 | 11 | Clustering, Introduction to Probability | [Video 18](https://youtu.be/UPxe97Wc1gM) <br> first 10:00 of [Video 19](https://youtu.be/ikLzykAaLOk) |
 | 12 | Foundations of Probability | 10:00 onwards of [Video 19](https://youtu.be/ikLzykAaLOk) <br> [Video 20](https://youtu.be/qHOG3yc4UzE) |
+| 13 | Combinatorics | [Video 21](https://youtu.be/-3v6UZ_Cq9k) <br> [Video 22](https://youtu.be/AfM9akq6PL0) |
 
 <br>
 
