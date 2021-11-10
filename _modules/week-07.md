@@ -11,7 +11,7 @@
           "**LEC 13**{: .label .label-lecture } [Combinatorics](../resources/lecture/lec13-filled.pdf) ([blank](../resources/lecture/lec13-blank.pdf)) ([extra video](https://youtu.be/-PN1bp5AZMA))":
       - date: 2021-11-10
         events:
-          "**DISC 6**{: .label .label-disc} **Combinatorics (due 11/12)**":
+          "**DISC 6**{: .label .label-disc} **[Combinatorics (due 11/12)](../resources/groupwork/groupwork06.pdf)**":
       - date: 2021-11-11
         events:
           "N/A (Veteran's Day)":
