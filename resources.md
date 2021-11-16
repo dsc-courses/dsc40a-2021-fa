@@ -35,6 +35,8 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 | 11 | Clustering, Introduction to Probability | [Video 18](https://youtu.be/UPxe97Wc1gM) <br> first 10:00 of [Video 19](https://youtu.be/ikLzykAaLOk) |
 | 12 | Foundations of Probability | 10:00 onwards of [Video 19](https://youtu.be/ikLzykAaLOk) <br> [Video 20](https://youtu.be/qHOG3yc4UzE) |
 | 13 | Combinatorics | [Video 21](https://youtu.be/-3v6UZ_Cq9k) <br> [Video 22](https://youtu.be/AfM9akq6PL0) |
+| 14 | More Combinatorics, Conditional Probability | [Video 23](https://youtu.be/fuaFj7aeg9I) <br> [Video 24](https://youtu.be/I3ZHwf8qWS4) |
+| 15 | Independence | [Video 25](https://youtu.be/AUiX4gWWsuE) |
 
 <br>
 
