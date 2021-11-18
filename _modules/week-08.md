@@ -12,5 +12,5 @@
           "**DISC 7**{: .label .label-disc} **[Conditional Probability and Independence (due 11/18)](../resources/groupwork/groupwork07.pdf)**":
       - date: 2021-11-18
         events:
-          "**LEC 15**{: .label .label-lecture } [Independence](../resources/lecture/lec15-blank.pdf)":
+          "**LEC 15**{: .label .label-lecture } [Independence](../resources/lecture/lec15-filled.pdf) ([blank](../resources/lecture/lec15-blank.pdf))":
 ---
