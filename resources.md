@@ -63,6 +63,11 @@ During the Spring 2021 offering of the course, Janine Tiefenbruck wrote a "Proba
 - [Solutions](../resources/probability/Probability_Roadmap_With_Solutions.pdf): This document contains solutions and explanations for all of the example problems in the first document. After you've attempted the problems on your own, read through this full document. Even if you've solved all the questions, you're likely to learn how to do some problems in new ways.
 - [Summary](../resources/probability/Probability_Roadmap_Summary.pdf): This document is concise and contains only the strategies themselves.
 
+### Visualizations
+
+- [Conditional probability: A Visual explanation by Victor Powell for Setosa](https://setosa.io/conditional/)
+- [Seeing Theory](https://seeing-theory.brown.edu)
+
 ## Past Exams and Videos
 
 Below, you'll find some exams (and in some cases, their solutions) from previous offerings of the course. You must be logged into your @ucsd.edu Google account to access these.
