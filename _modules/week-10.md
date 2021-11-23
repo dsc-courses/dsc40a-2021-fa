@@ -4,7 +4,7 @@
     days:
       - date: 2021-11-30
         events:
-          "**LEC 17**{: .label .label-lecture } Naive Bayes":
+          "**LEC 17**{: .label .label-lecture } Naive Bayes and Logistic Regression":
       - date: 2021-12-2
         events:
           "**LEC 18**{: .label .label-lecture } Review, Conclusion":
