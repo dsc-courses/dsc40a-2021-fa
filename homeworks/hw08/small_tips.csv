@@ -1,0 +1,16 @@
+sex,day,time,above_18
+Male,Thur,Lunch,False
+Male,Fri,Dinner,False
+Male,Sat,Dinner,False
+Male,Sun,Dinner,True
+Male,Sun,Dinner,True
+Male,Sun,Dinner,False
+Male,Sun,Dinner,True
+Female,Thur,Lunch,True
+Female,Thur,Lunch,False
+Female,Thur,Lunch,False
+Female,Fri,Dinner,False
+Female,Sun,Dinner,True
+Female,Sun,Dinner,False
+Female,Sun,Dinner,True
+Female,Sun,Dinner,True
