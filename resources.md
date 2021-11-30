@@ -37,6 +37,8 @@ In the table below, you can find lecture videos created by Janine Tiefenbruck, w
 | 13 | Combinatorics | [Video 21](https://youtu.be/-3v6UZ_Cq9k) <br> [Video 22](https://youtu.be/AfM9akq6PL0) |
 | 14 | More Combinatorics, Conditional Probability | [Video 23](https://youtu.be/fuaFj7aeg9I) <br> [Video 24](https://youtu.be/I3ZHwf8qWS4) |
 | 15 | Independence | [Video 25](https://youtu.be/AUiX4gWWsuE) |
+| 16 | Naive Bayes | [Video 26](https://youtu.be/WLQMoA4ZAus) |
+| 17 | More Naive Bayes | [Video 27](https://youtu.be/4tGtziW901Y) |
 
 <br>
 
