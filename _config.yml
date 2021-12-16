@@ -16,8 +16,8 @@
 title: DSC 40A
 description: DSC 40A, Fall 2021 at UC San Diego
 tagline: Theoretical Foundations of Data Science I
-# baseurl: '/dsc40a-2021-fa' # the subpath of your site, e.g. /blog
-# url: 'https://dsc-courses.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/dsc40a-2021-fa' # the subpath of your site, e.g. /blog
+url: 'https://dsc-courses.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 author: Suraj Rampure
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
